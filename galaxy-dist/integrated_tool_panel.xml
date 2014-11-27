@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<toolbox>
+    <section id="getext" name="Get Data" version="">
+        <tool id="upload1" />
+        <tool id="ucsc_table_direct1" />
+        <tool id="ucsc_table_direct_archaea1" />
+        <tool id="ebi_sra_main" />
+        <tool id="biomart" />
+        <tool id="gramenemart" />
+        <tool id="modENCODEfly" />
+        <tool id="flymine" />
+        <tool id="modmine" />
+        <tool id="mousemine" />
+        <tool id="ratmine" />
+        <tool id="yeastmine" />
+        <tool id="modENCODEworm" />
+        <tool id="wormbase" />
+        <tool id="eupathdb" />
+        <tool id="genomespace_file_browser_prod" />
+        <tool id="genomespace_importer" />
+    </section>
+    <section id="send" name="Send Data" version="">
+    </section>
+    <section id="liftOver" name="Lift-Over" version="">
+    </section>
+    <section id="textutil" name="Text Manipulation" version="">
+        <tool id="addValue" />
+        <tool id="cat1" />
+        <tool id="Condense characters1" />
+        <tool id="Cut1" />
+        <tool id="mergeCols1" />
+        <tool id="Convert characters1" />
+        <tool id="createInterval" />
+        <tool id="ChangeCase" />
+        <tool id="Paste1" />
+        <tool id="Remove beginning1" />
+        <tool id="random_lines1" />
+        <tool id="Show beginning1" />
+        <tool id="Show tail1" />
+        <tool id="trimmer" />
+        <tool id="wc_gnu" />
+        <tool id="secure_hash_message_digest" />
+    </section>
+    <section id="SADI" name="SADI services" version="">
+        <label id="SADI-common-utilities" text="SADI common utilities" version="" />
+        <tool id="sadi_generic" />
+        <tool id="RDFSyntaxConverter" />
+        <tool id="mergeRDFgraphs" />
+        <label id="SADI-services" text="SADI services" version="" />
+        <tool id="getdbSNPRecordByUniprotID" />
+        <label id="Other-necessary-tools" text="Other necessary tools" version="" />
+        <tool id="SPARQLGalaxy" />
+        <tool id="rapper" />
+        <tool id="tab2rdf" />
+    </section>
+    <section id="filter" name="Filter and Sort" version="">
+        <tool id="Filter1" />
+        <tool id="sort1" />
+        <tool id="Grep1" />
+        <label id="gff" text="GFF" version="" />
+        <tool id="Extract_features1" />
+        <tool id="gff_filter_by_attribute" />
+        <tool id="gff_filter_by_feature_count" />
+        <tool id="gtf_filter_by_attribute_values_list" />
+    </section>
+    <section id="group" name="Join, Subtract and Group" version="">
+        <tool id="join1" />
+        <tool id="comp1" />
+        <tool id="Grouping1" />
+    </section>
+    <section id="convert" name="Convert Formats" version="">
+    </section>
+    <section id="features" name="Extract Features" version="">
+    </section>
+    <section id="fetchSeq" name="Fetch Sequences" version="">
+    </section>
+    <section id="fetchAlign" name="Fetch Alignments" version="">
+    </section>
+    <section id="scores" name="Get Genomic Scores" version="">
+    </section>
+    <section id="stats" name="Statistics" version="">
+    </section>
+    <section id="plots" name="Graph/Display Data" version="">
+    </section>
+    <section id="hyphy" name="Evolution" version="">
+    </section>
+    <section id="motifs" name="Motif Tools" version="">
+    </section>
+    <section id="NGS_QC" name="NGS: QC and manipulation" version="">
+    </section>
+    <section id="solexa_tools" name="NGS: Mapping" version="">
+    </section>
+    <section id="ngs-rna-tools" name="NGS: RNA Analysis" version="">
+    </section>
+    <section id="samtools" name="NGS: SAM Tools" version="">
+    </section>
+    <section id="ngs-simulation" name="NGS: Simulation" version="">
+    </section>
+    <section id="hgv" name="Phenotype Association" version="">
+    </section>
+</toolbox>

@@ -1,0 +1,55 @@
+<tool id="SPARQLGalaxy" name="Execute an SPARQL query against an RDF file" version="1.0.1">
+	<description>It executes an SPARQL query against the input RDF file and generates an HTML file with the variables and bound entities</description>
+	<command interpreter="python">
+	  sparql.py $ontology "$pasted_query" $out_format > $output 2>/dev/null
+	</command>
+	<inputs>
+		<param name="ontology" type="data" format="rdf" label="Input RDF file"/>		   
+		<param name="pasted_query" type="text" area="True" size="10x50" label="SPARQL Query" value="SELECT * WHERE { ?s ?p ?o }">
+		  <sanitizer sanitize="False"/>
+		</param>	
+		<param name="out_format" type="select" label="Output format" help="">
+			<option value="html" selected="true">HTML</option>
+			<option value="tab">TABULAR</option>
+		</param>
+
+	</inputs>
+	<outputs>
+		<data format="html" name="output">
+		<change_format>
+			<when input="out_format" value="tab" format="tabular" />
+		 </change_format>
+		 </data>
+	</outputs>
+	<help>
+
+	  
+**Important note**
+
+  RDFLib must be installed on the system (http://github.com/RDFLib/rdflib).
+
+**Usage**
+
+  An RDF file (in any format that RDFLib can accept) and a SPARQL query are needed. See bundle for examples.
+
+**More information**
+
+  Galaxy public instance with SPARQL-Galaxy pre-installed:
+  
+  http://biordf.org:8983/
+  
+  RDF:
+  
+  http://www.w3.org/standards/techs/rdf
+  
+  SPARQL: 
+  
+  http://www.w3.org/standards/techs/sparql
+
+**Contact**
+
+  Please send any request or comment to mikel.egana.aranguren@gmail.com.
+
+	</help>
+
+</tool>

@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q03164">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9UKA4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q8TDM6">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9NQT8">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q12830">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9HCM3">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q8TF72">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q5H8C1">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9UGU0">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:B2RWN9">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:A4UGR9">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:B7ZML1">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:F2Z2U4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:F8VPD4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:O75443">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9UKN7">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q13439">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q6RI45">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q92608">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:B2RUT2">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:F8W9C3">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:E9PC93">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:J3KPF0">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:F5H4B5">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9Y485">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:W5ZR30">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q5XUU0">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:P51610">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q149P0">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:B5MDV5">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:H7BZ55">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:J3QK84">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q92614">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:J3QTQ0">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:B7XCW9">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:E7ENL6">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9P2D8">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9P281">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q7Z406">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:O14686">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q09472">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9BX84">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q63HN8">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q2HXI4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:A4D1A8">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:A4FU77">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q8IZD2">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q92538">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q01082">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q14686">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q69YN4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:D6W5H5">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:A7E2V4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:B0I1R8">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:F8VU39">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9BY89">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9NTG1">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q5JB40">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q5T5U3">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:O43149">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:P35499">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:J3KNV1">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:E9PBA5">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9UIW2">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q86WI1">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:P49454">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q96RT7">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q5D862">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:B7ZM61">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:E9PAT2">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:E9PDY4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:F8W9J4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:U3KQJ8">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:P08519">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q3ZCN5">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:A6NE01">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:B7ZMI1">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:D3YHM4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:E7EPM4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:F5GZI5">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:B1AQK6">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q8N4C6">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q99250">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q8TDX9">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:O60673">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q96T58">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q58EX2">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q6ZR08">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9BZ29">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:O75923">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:T1R7N1">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:F5H269">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9UKZ4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q7Z442">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:O75643">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q8WXH0">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q15413">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:A7Y9J9">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:G3XAE2">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:H0YA77">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q99973">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q96JB1">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:P25054">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:P35556">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q5HYC2">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q5CZC0">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:F8W7S2">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q01484">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:P51587">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q6ZS30">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:E9PG32">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:O15050">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q8IZC6">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q5VU43">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q53TY4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q53SY7">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:E7EUA6">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:E9PEL9">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:H0YGL9">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:T1R7A8">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q02388">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9C0F0">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q5CZ96">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q2WGJ9">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9C0D2">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q92508">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:J3KN01">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:A3KMH1">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q59GD8">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:E9PNZ4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:O60287">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:B0I1S1">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:B7ZLH8">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:E9PJ64">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:F2Z2U8">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:D3DT72">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q7Z7A1">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q96JI7">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:O60229">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:P17927">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9BYW2">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q5JSL3">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q96QE3">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q13129">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:B2RUT8">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:F8W8Y7">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9UPS6">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9UL36">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q6ZMW3">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q68CT4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:D3DPG0">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:E9PQ73">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:H9KVB4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:G8JLL9">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q86UQ4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:O15078">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q15746">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q5T1R4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q5VT06">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9P2P6">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:P10586">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:A7E2Y5">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:A7KAX9">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:B0I1R4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:E9PBJ0">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q08E86">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:I0B0K8">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q15154">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9UPQ9">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9HC84">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:D3DSQ0">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q5VU65">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:A6NKB5">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:F5H619">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:K9LC76">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q03001">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:P12111">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q4LDE5">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q70CQ2">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q4LE79">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q8IZX4">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:R4GNB2">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:T1R7Q9">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:P04275">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:O95996">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q460N5">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q8TDI0">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:F8W9F9">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9C0G6">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9P2P1">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q6N022">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9Y4D8">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q59FG6">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q9H251">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:A6NIW2">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q09666">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:O00763">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:Q6ZU64">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:B3W695">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://openlifedata.org/uniprot:E7ER45">
+    <ns0:type xmlns:ns0="ahttp://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://openlifedata.org/uniprot_vocabulary:Resource"/>
+  </rdf:Description>
+</rdf:RDF>
