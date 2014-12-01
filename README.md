@@ -35,7 +35,7 @@ REPOSITORY                      TAG                 IMAGE ID            CREATED 
 mikeleganaaranguren/sadi-bash   v1                  xxxxxxxxxxx        17 hours ago        547 MB
 ```
 
-Run the container:
+Run the container (Make sure that 8080 is free in the host machine, or use a different one and map it to the container, e.g. 8389:8080):
 
 ```
 $ docker run -d -p 8080:8080 mikeleganaaranguren/sadi-galaxy

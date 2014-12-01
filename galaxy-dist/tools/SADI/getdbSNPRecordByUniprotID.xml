@@ -1,6 +1,12 @@
 <tool id="getdbSNPRecordByUniprotID" name="getdbSNPRecordByUniprotID">
     <description>This service retrieves dbSNP record IDs by Uniprot IDs</description>
-    <command>${__tool_data_path__}/shared/errwrap.sh java -Xmx2000M -Xms250M -jar ${__tool_data_path__}/shared/jars/sadi_generic_client.jar http://dev.biordf.net/~kawas/cgi-bin/getdbSNPRecordByUniprotID $input > $output </command>
+    
+    <!--<command>${__tool_data_path__}/shared/errwrap.sh java -Xmx2000M -Xms250M -jar ${__tool_data_path__}/shared/jars/sadi_generic_client.jar http://dev.biordf.net/~kawas/cgi-bin/getdbSNPRecordByUniprotID $input > $output </command>-->
+    
+    <!--  errwrap.sh is not working, but for this sort of environment it shouldn't matter, since it is less likely to fail, and even less likely to be debugged -->
+    
+    <command>java -jar ${__tool_data_path__}/shared/jars/sadi_generic_client.jar http://dev.biordf.net/~kawas/cgi-bin/getdbSNPRecordByUniprotID $input > $output 2>/dev/null </command>
+    
     <inputs>
     	  <param name="input" type="data" format="rdf" label="RDF input for SADI service"/>
     </inputs>
