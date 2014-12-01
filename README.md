@@ -41,20 +41,20 @@ mikeleganaaranguren/sadi-bash   v1                  xxxxxxxxxxx        17 hours 
 Run the container:
 
 
-PORT!!!!! -p
+
 
 
 
 ```
-$ docker run -t -i mikeleganaaranguren/sadi-bash:v1 /bin/bash
+$ docker run -t -i -p 8080:8080 mikeleganaaranguren/sadi-galaxy /bin/bash
 ```
 
 Within the container, run the Galaxy server:
 
-/home/mikel/UPV-EHU/SADI-Galaxy-Docker/galaxy-dist-2/./run.sh
+
 
 ```
-root@xxxxxxxxxxx:/# cd SADI-CLI-Docker/
+root@xxxxxxxxxxx:/# /SADI-Galaxy-Docker/galaxy-dist/./run.sh
 ```
 
 Go to 127.0.0.1 and check, there is a user ... 

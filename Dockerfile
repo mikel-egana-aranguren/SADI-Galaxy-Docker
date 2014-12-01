@@ -16,7 +16,7 @@ RUN sh update-sun-jre.bin
 
 # Clone the configured Galaxy server
 
-RUN http://github.com/mikel-egana-aranguren/SADI-Galaxy-Docker.git
+RUN git clone http://github.com/mikel-egana-aranguren/SADI-Galaxy-Docker.git
 
 
 
