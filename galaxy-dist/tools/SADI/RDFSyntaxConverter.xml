@@ -1,7 +1,11 @@
 <tool id="RDFSyntaxConverter" name="RDF Syntax Converter" version="0.0.1">
 	<description>Converts RDF to N3, N-TRIPLE or TAB format</description>
 	
-	<command>${__tool_data_path__}/shared/errwrap.sh java -Xmx2000M -Xms250M -jar ${__tool_data_path__}/shared/jars/RDFSyntaxConverter.jar $input $format > $output </command>
+<!-- 	<command>${__tool_data_path__}/shared/errwrap.sh java -Xmx2000M -Xms250M -jar ${__tool_data_path__}/shared/jars/RDFSyntaxConverter.jar $input $format > $output </command> -->
+
+<!--  	errwrap.sh is not working, but for this sort of environment it shouldn't matter, since it is less likely to fail, and even less likely to be debugged -->
+
+	<command>java -jar ${__tool_data_path__}/shared/jars/RDFSyntaxConverter.jar $input $format > $output 2>/dev/null</command>
 		
 	<inputs>
 		<param name="input" type="data" format="rdf" label="RDF input file"/>	

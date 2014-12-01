@@ -7,7 +7,7 @@ MAINTAINER Mikel Egaña Aranguren <mikel.egana.aranguren@gmail.com>
 
 # Install the necessary stuff 
 
-RUN apt-get update && apt-get install -y git wget vim python python-rdflib raptor2-utils libraptor2-0 cat
+RUN apt-get update && apt-get install -y git wget vim python python-rdflib raptor2-utils libraptor2-0
 
 # Java is installed from http://www.duinsoft.nl/packages.php?t=en
 

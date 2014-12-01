@@ -1,7 +1,11 @@
 <tool id="sadi_generic" name="SADI services generic caller" version="0.0.1">
 	<description>Send any input RDF to any SADI service</description>
 	
-	<command>${__tool_data_path__}/shared/errwrap.sh java -Xmx2000M -Xms250M -jar ${__tool_data_path__}/shared/jars/sadi_generic_client.jar $url $input > $output </command>
+<!-- 	<command>${__tool_data_path__}/shared/errwrap.sh java -Xmx2000M -Xms250M -jar ${__tool_data_path__}/shared/jars/sadi_generic_client.jar $url $input > $output </command> -->
+
+<!--  	errwrap.sh is not working, but for this sort of environment it shouldn't matter, since it is less likely to fail, and even less likely to be debugged -->
+
+        <command>java -jar ${__tool_data_path__}/shared/jars/sadi_generic_client.jar $url $input > $output 2>/dev/null</command>
 		
 	<inputs>
 		<param name="url" type="text" size="250" label="Service URL">
