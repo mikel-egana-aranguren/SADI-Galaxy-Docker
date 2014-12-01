@@ -18,5 +18,9 @@ RUN sh update-sun-jre.bin
 
 RUN git clone http://github.com/mikel-egana-aranguren/SADI-Galaxy-Docker.git
 
+# Run the server
+
+CMD /SADI-Galaxy-Docker/galaxy-dist/./run.sh
+
 
 
