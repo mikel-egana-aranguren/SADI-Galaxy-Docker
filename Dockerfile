@@ -1,4 +1,6 @@
-# Docker file to run a Galaxy instance preconfigured with SADI-Galaxy and fake user (user useruser) that can run pre-canned history and workflow
+# Docker file to run a Galaxy instance preconfigured with SADI-Galaxy and fake user that can run pre-canned history and workflow
+
+# See web for details: http://github.com/mikel-egana-aranguren/SADI-Galaxy-Docker
 
 FROM ubuntu:14.04
 MAINTAINER Mikel Egaña Aranguren <mikel.egana.aranguren@gmail.com>
@@ -11,6 +13,10 @@ RUN apt-get update && apt-get install -y git wget vim python python-rdflib rapto
 
 RUN wget http://www.duinsoft.nl/pkg/pool/all/update-sun-jre.bin
 RUN sh update-sun-jre.bin
+
+# Clone the configured Galaxy server
+
+RUN http://github.com/mikel-egana-aranguren/SADI-Galaxy-Docker.git
 
 
 
