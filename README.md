@@ -8,6 +8,8 @@ About
 
 On the other hand, [Docker](http://www.docker.com/whatisdocker/) is a sort of "virtualisation" environment for deploying applications very easily, without configuration. Therefore I have created a Docker image for deploying a Galaxy instance already containing SADI-Galaxy, so anyone interested in SADI-Galaxy can try it out easily within having to configure Galaxy and SADI-Galaxy.   
 
+[![doi:10.5281/zenodo.15930](https://zenodo.org/badge/doi/10.5281/zenodo.15930.png)](http://dx.doi.org/10.5281/zenodo.15930)
+
 Deploying the container
 -----------------------
 
@@ -68,6 +70,11 @@ When the worfklow has finished new steps will appear in the history (20-37).
 ![Galaxy workflow done](workflow_done.png)
 
 You can use the workflow, by inspecting the steps, to become familiar with SADI-Galaxy.
+
+Publications mentioning SADI-Galaxy-Docker
+------------------------------------------
+
+Aranguren, M. E. (2015). Merging OpenLifeData with SADI services using Galaxy and Docker (DOI 10.1101/013615). BioRxiv, Cold Spring Harbor Labs [doi:10.1101/013615](http://dx.doi.org/10.1101/013615)
 
 
 
